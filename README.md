@@ -99,9 +99,9 @@ Users can dynamically filter the dashboard using:
 
 ---
 
-# 🖼️ Dashboard Preview
+> ## 🖼️ Dashboard Preview
 
-> Replace the image below with your dashboard screenshot after uploading it to this repository.
+![Dashboard](Screenshot%202026-07-26%20214350.png)
 
 ---
 
